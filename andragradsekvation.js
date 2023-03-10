@@ -1,6 +1,4 @@
 
-
-
 function andragradsekvation() {
     let a = parseFloat(prompt("Skriv in värdet på a: "));
     let b = parseFloat(prompt("Skriv in värdet på b: "));
@@ -20,6 +18,6 @@ function andragradsekvation() {
     }
   }
   
-  // Anropa funktionen
+
   andragradsekvation();
   
